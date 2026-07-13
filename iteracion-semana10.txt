@@ -1,0 +1,8 @@
+¿Qué 2 tareas del backlog harías primero?
+¿Por qué son las más importantes?
+¿Qué significa para ti que una tarea esté “terminada”?
+Escribe una definición simple de terminado con al menos 3 criterios. Por ejemplo:
+
+Funciona.
+Fue probada.
+Quedó registrada en Git.
