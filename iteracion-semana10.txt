@@ -15,4 +15,5 @@ Escribe una definición simple de terminado con al menos 3 criterios. Por ejempl
 
 Funciona.
 Fue probada.
+fue verificada.
 Quedó registrada en Git.
