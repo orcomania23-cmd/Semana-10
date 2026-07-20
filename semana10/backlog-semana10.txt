@@ -3,3 +3,9 @@ Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
 Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
 
 Como miembro del equipo quiero consultar reportes para hacer seguimiento.
+
+se solicita una tapa para alcantarilla  ya que fue robada la que estaba hace años y se necesita solucionar ya que hay accidentes frecuentemente.
+
+se solicita reparar las luces donde se toma principalmente el transporte  ya que puede generar inseguridad.
+
+se solicita reparar las estaciones de transporte  público y colocar señalizaciones e incluir herramientas de inclusión.
